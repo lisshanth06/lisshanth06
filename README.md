@@ -20,5 +20,3 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lisshanth06&" alt="lisshanth06" /></p>
-
